@@ -1,3 +1,3 @@
 ## Technology Used
 - HTML
-- CSS(Internal CSs)
+- CSS(Internal CSS)
